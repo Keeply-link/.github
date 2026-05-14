@@ -12,6 +12,8 @@
   <a href="https://app.keeply.tools">Sign in</a>
   &nbsp;·&nbsp;
   <a href="https://dev.keeply.tools">Docs</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.raycast.com/rolfkoenders/keeply">Raycast</a>
 </p>
 
 ---
