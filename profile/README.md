@@ -4,7 +4,7 @@
 
 <h2 align="center">Keeply</h2>
 
-<p align="center">A personal bookmark manager that stays out of your way.</p>
+<p align="center">A bookmark manager built for people who live in the terminal.</p>
 
 <p align="center">
   <a href="https://keeply.tools">keeply.tools</a>
@@ -16,9 +16,7 @@
 
 ---
 
-Keeply is a bookmark manager for people who actually use their bookmarks. Save URLs from the browser or the command line, organize with folders and tags, and search across everything when you need something back.
-
-There's also a CLI if you'd rather not leave the terminal.
+Keeply is a bookmark manager with a proper API, a CLI, and no browser required. Save links from anywhere, tag and organize them, and pipe them into whatever you're building. There's a web UI too if you want it.
 
 ### Install the CLI
 
