@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./keeply-logo.png" width="90" alt="Keeply" />
+  <img src="./keeply-logo.svg" width="90" alt="Keeply" />
 </p>
 
 <h2 align="center">Keeply</h2>
